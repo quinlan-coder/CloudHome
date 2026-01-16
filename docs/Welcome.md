@@ -1,7 +1,7 @@
 # Welcome!
 </br>
 <span style="font-size: 3em; color: #5D535E;">
-  <i class="fas fa-robot fa-2x"></i> <i>CloudHome
+  <i class="fas fa-robot fa-2x"></i> <i>CloudHome 2
 </i></span> 
 </br>
 </br>
